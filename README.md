@@ -5,3 +5,8 @@
 * [Designing your SaaS Database for Scale with Postgres](https://docs.citusdata.com/en/v8.0/articles/designing_saas.html)
 * [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns)
 * [Multi Tenants Database Architecture](https://www.codeproject.com/Articles/51334/Multi-Tenants-Database-Architecture)
+
+
+***
+Google:
+* [Example coding](https://www.youtube.com/watch?v=XKu_SEDAykw)
