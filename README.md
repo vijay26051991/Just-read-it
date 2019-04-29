@@ -1,6 +1,10 @@
 # I created this page to keep many technical links to cover multiple interesting topics which I used to gone through.
 
 ***
+**Collections**
+![Hierarchy](https://www.edureka.co/blog/wp-content/uploads/2017/05/Collection-framework-hierarchy.png)
+
+***
 **ClassLoaders in java**
    * Whenever a java program is executed, it is first loaded by the classloader. There are three types of classloaders.
       1. Bootstrap classloader - loads all JDK classes.
