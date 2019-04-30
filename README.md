@@ -1,6 +1,19 @@
 # I created this page to keep many technical links to cover multiple interesting topics which I used to gone through.
 
 ***
+1. post vs patch difference?
+
+2. equals and hashcode difference and its contract?
+3. 400 and 500 http codes?
+4. Rest specifications?
+5. Methods in object classes?
+6. Comparator in stream operations?
+
+**API Versioning**
+https://stackoverflow.com/questions/389169/best-practices-for-api-versioning
+https://www.baeldung.com/rest-versioning
+
+***
 **Collections**
 ![Hierarchy](https://www.edureka.co/blog/wp-content/uploads/2017/05/Collection-framework-hierarchy.png)
 
