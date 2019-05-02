@@ -1,4 +1,11 @@
 # I created this page to keep many technical links to cover multiple interesting topics which I used to gone through.
+***
+Default method is to enable the feature of lambda expressions. 
+
+For example: 
+forEach is the method implemented in iterable interface in order to avoid the same implementation in all other implementations.
+
+
 
 ***
 1. post vs patch difference?
