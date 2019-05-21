@@ -41,3 +41,14 @@ https://www.baeldung.com/rest-versioning
 ***
 Google:
 * [Example coding](https://www.youtube.com/watch?v=XKu_SEDAykw)
+
+***
+Fetch types:
+In JPA:
+One to One - Eager
+Many to Many - Lazy
+One to Many - Eager
+Many to One - Lazy
+
+In hibernate:
+All are lazy
