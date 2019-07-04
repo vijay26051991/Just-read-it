@@ -52,3 +52,7 @@ Many to One - Lazy
 
 In hibernate:
 All are lazy
+
+
+* [Memory Management](https://www.linkedin.com/learning/java-memory-management/the-role-of-the-heap)
+* [Web Hooks](https://www.appseconnect.com/event-driven-integrations-using-webhooks/)
