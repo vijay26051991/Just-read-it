@@ -5,7 +5,7 @@ Default method is to enable the feature of lambda expressions.
 For example: 
 forEach is the method implemented in iterable interface in order to avoid the same implementation in all other implementations.
 
-
+https://vijayapidesign.blogspot.com/2020/01/api-design.html
 
 ***
 1. post vs patch difference?
